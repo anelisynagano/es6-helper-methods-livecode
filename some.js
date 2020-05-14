@@ -9,7 +9,3 @@ const people = [
 
 // TODO use #some to check if the array contains someone younger than 18 (<)
 // i.e: return True or False
-
-const youngerThan18 = people.some(person => person.age < 18);
-
-console.log(youngerThan18);

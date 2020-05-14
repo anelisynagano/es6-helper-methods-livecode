@@ -8,6 +8,4 @@ const people = [
 
 // TODO use #find to find James, 65
 
-const james = people.find(person => person.name == 'James' && person.age == 65);
-
 console.log(james)

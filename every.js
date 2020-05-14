@@ -8,6 +8,3 @@ const people = [
 
 // TODO use #every to check if all people have their age defined
 // i.e: return true or false
-
-const hasAge = people.every(person => person.age) 
-console.log(hasAge)
