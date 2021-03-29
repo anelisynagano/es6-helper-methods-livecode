@@ -8,4 +8,3 @@ const people = [
 
 // TODO use #find to find James, 65
 
-console.log(james)

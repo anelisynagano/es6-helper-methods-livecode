@@ -1,12 +1,12 @@
 Do the exercises in the following order:
 
 1 - forEach
-2 - map - Catherine
-3 - filter - François
-4 - find - Fernanda
-5 - every - Tiago
-6 - some - Filipa
-7 - reduce - Margarida
+2 - map 
+3 - filter 
+4 - find 
+5 - every
+6 - some 
+7 - reduce 
 
 Follow the instructions in each file.
 
